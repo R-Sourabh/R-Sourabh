@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sourabh-raghuwanshi-5aa16a20a" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="sourabh-raghuwanshi-5aa16a20a" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/sourabh-raghuwanshi-5aa16a20a" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="sourabh-raghuwanshi-5aa16a20a" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
