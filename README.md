@@ -3,7 +3,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-sourabh&label=Profile%20views&color=0e75b6&style=flat" alt="r-sourabh" /> </p>
-<img align="right" height="270" width="400" style="border-radius:50px" alt="cool_coding" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+<img align="right" height="250" width="370" style="border-radius:50px" alt="cool_coding" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
 - 🔭 I’m currently working on **Frontend Projects**
 
