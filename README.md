@@ -8,13 +8,14 @@
 
 - 💬 Ask me about **Angular, React, Vue, Javascript, Nodejs**
 
-- 📫 How to reach me **rsourabh002@gmail.com**
+- 📫 How to reach me ***
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15kBd2TqxwNVD4R26x_24uR3qDS3mQUke/view?usp=drive_link](https://drive.google.com/file/d/15kBd2TqxwNVD4R26x_24uR3qDS3mQUke/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sourabh-raghuwanshi-5aa16a20a" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="sourabh-raghuwanshi-5aa16a20a" height="50" width="50" /></a>
+<a href="rsourabh002@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="email-sourabh" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
