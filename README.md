@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Angular, React, Vue, Javascript, Nodejs**
 
-- 📫 How to reach me ***
+- 📫 How to reach me **rsourabh002@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15kBd2TqxwNVD4R26x_24uR3qDS3mQUke/view?usp=drive_link](https://drive.google.com/file/d/15kBd2TqxwNVD4R26x_24uR3qDS3mQUke/view?usp=drive_link)
 
