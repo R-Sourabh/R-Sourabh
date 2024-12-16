@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sourabh Raghuwanshi</h1>
-<h3 align="center">A frontend developer from India</h3>
+<h3 align="center">Frontend developer from India</h3>
 
 <br></br>
 <img align="right" height="200" width="300" style="border-radius:50px" alt="cool_coding" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
