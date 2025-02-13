@@ -10,13 +10,17 @@ jobs:
     name: Update stats card
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3  # Ensures repo is checked out
+        with:
+          token: ${{ secrets.GH_PAT }}  # Use your token for checkout
+
       - uses: datarootsio/github-stats-card@v1
         with:
-          username: R-Sourabh
+          username: R-Sourabh  # Replace with your actual GitHub username
           gh_token_stats: ${{ secrets.GH_PAT }}
-          gh_token_commits: ${{ secrets.GITHUB_TOKEN }}
+          gh_token_commits: ${{ secrets.GH_PAT }}
           badge_path: assets/badge.svg
           header: "👋 Hi, I'm"
-          about: "Code is like humor. When you have to explain it, it’s bad. \nPassionate about open-source & problem-solving!"
+          about: "Passionate about coding and open-source.\nLove problem-solving!"
           theme: hypnotoad
           commit_message: "Badge updated automatically 🎉"
