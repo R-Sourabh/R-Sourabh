@@ -24,4 +24,4 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r-sourabh&theme=dark" alt="r-sourabh" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r-sourabh&show_icons=true&locale=en&theme=dark" alt="r-sourabh" /></p>
+<p>&nbsp;<img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/R-Sourabh?cardType=github&theme=gruvbox&preferLogin=true" alt="r-sourabh" /></p>
