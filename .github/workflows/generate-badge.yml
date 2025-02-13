@@ -22,5 +22,5 @@ jobs:
           badge_path: assets/badge.svg
           header: "👋 Hi, I'm"
           about: "Passionate about coding and open-source.\nLove problem-solving!"
-          theme: hypnotoad
+          theme: a-colibri-hums-while-the-dog-farts
           commit_message: "Badge updated automatically 🎉"
