@@ -21,6 +21,6 @@ jobs:
           gh_token_commits: ${{ secrets.GH_PAT }}
           badge_path: assets/badge.svg
           header: "👋 Hi, I'm"
-          about: "Passionate about coding and open-source.\nLove problem-solving!"
+          about: "Code is like humor. When you have to explain it, it’s bad. \nPassionate about coding and open-source."
           theme: a-colibri-hums-while-the-dog-farts
           commit_message: "Badge updated automatically 🎉"
