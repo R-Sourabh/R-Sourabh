@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rsourabh002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18t03XJnsuWterUqUpY2ajdRM55ohz4lG/view?usp=sharing](https://drive.google.com/file/d/18t03XJnsuWterUqUpY2ajdRM55ohz4lG/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1l3Slix3sVHE0LJGb_Lmalh7SJEFHIU7_/view?usp=drive_link](https://drive.google.com/file/d/1l3Slix3sVHE0LJGb_Lmalh7SJEFHIU7_/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
