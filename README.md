@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Frontend Projects**
 
-- 💬 Ask me about **Angular, React, Vue, Javascript, Nodejs**
+- 💬 Ask me about **Vue, Angular, React, Javascript & Nodejs**
 
 - 📫 How to reach me **rsourabh002@gmail.com**
 
