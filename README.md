@@ -24,3 +24,11 @@
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=R-Sourabh&theme=solarized" /></p>
 <!-- <p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/R-Sourabh/R-Sourabh/main/assets/badge.svg" /></p>
  -->
+
+ <h3 align="left">Coding stats:</h3>
+
+ ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C376%20hrs%2024%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
+
+
