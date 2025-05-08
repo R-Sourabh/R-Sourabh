@@ -21,5 +21,4 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/R-Sourabh/R-Sourabh/main/assets/badge.svg" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r-sourabh&theme=dark" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r-sourabh&show_icons=true&locale=en&theme=dark" /></p>
