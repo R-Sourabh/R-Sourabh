@@ -21,7 +21,10 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R-Sourabh&theme=solarized" /></p>
+<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=R-Sourabh&theme=solarized-light&hide_border=true&border_radius=6" />
+</p>
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=R-Sourabh&theme=solarized" /></p>
+
 <!-- <p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/R-Sourabh/R-Sourabh/main/assets/badge.svg" /></p>
  -->
 
