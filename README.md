@@ -77,8 +77,6 @@
   <img src="https://streak-stats.demolab.com?user=R-Sourabh&theme=solarized-light&hide_border=true&border_radius=6" alt="GitHub Streak" />
 </p>
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=30" width="100%"/>
 </p>
