@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Sourabh Raghuwanshi</h1>
-<h3 align="center">Frontend Developer | Vue • Angular • React</h3>
+<h3 align="center">Full Stack Developer | React.js • Next.js • Typescript • Vue • Node.js </h3>
 
 <p align="center">
   <a href="https://github.com/R-Sourabh">
