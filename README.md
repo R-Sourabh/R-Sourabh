@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- ═══════════════ HEADER BANNER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:58a6ff,100:7c3aed&height=200&section=header&text=Sourabh%20Raghuwanshi&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Vue%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js&descAlignY=62&descSize=16&animation=twinkling" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/R-Sourabh/R-Sourabh/main/banner.svg" width="100%" alt="Sourabh Raghuwanshi banner"/>
+</div>
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 <a href="https://git.io/typing-svg">
@@ -149,10 +151,12 @@ status      : Open to opportunities ✅
 ## ⚡ At a Glance
 
 <div align="center">
+
 <img src="https://img.shields.io/badge/Pull%20Requests-300%2B-58a6ff?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/API%20Payload%20Reduction-40%25-7c3aed?style=for-the-badge&logo=speedtest&logoColor=white" />
 <img src="https://img.shields.io/badge/Offline%20Records%20Handled-4%2C000%2B-f97316?style=for-the-badge&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/Enterprise%20Apps-7%2B-3ECF8E?style=for-the-badge&logo=ionic&logoColor=white" />
+
 </div>
 
 ---
@@ -165,6 +169,6 @@ status      : Open to opportunities ✅
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:58a6ff,100:0d1117&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:0a0a1a,100:0d0d0d&height=60&stroke=00fff7&strokeWidth=1&section=footer" />
 
 </div>
