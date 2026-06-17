@@ -1,87 +1,170 @@
-<h1 align="center">👋 Hi there, I'm Sourabh Raghuwanshi</h1>
-<h3 align="center">Full Stack Developer | React.js • Next.js • Typescript • Vue • Node.js </h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/R-Sourabh">
-    <img src="https://komarev.com/ghpvc/?username=R-Sourabh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://github.com/R-Sourabh?tab=followers">
-    <img src="https://img.shields.io/github/followers/R-Sourabh?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-</p>
+<!-- ═══════════════ HEADER BANNER ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:58a6ff,100:7c3aed&height=200&section=header&text=Sourabh%20Raghuwanshi&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Vue%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js&descAlignY=62&descSize=16&animation=twinkling" />
 
-<br />
+<!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+offline-first+PWAs+%F0%9F%93%B4;Crafting+Micro+Frontend+architectures+%E2%9A%A1;Shipping+AI-powered+interfaces+%F0%9F%A4%96;40%25+API+payload+reductions+%F0%9F%9A%80;Open+to+exciting+opportunities+%F0%9F%91%8B" alt="Typing SVG" />
+</a>
 
-<!-- Animated coding GIF -->
-<img align="right" height="200" width="300" style="border-radius:8px" alt="coding" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
+<br/>
 
-### 🔭 About Me
-- 🔭 I’m currently working on **Frontend Projects**
-- 💬 Ask me about **Vue, Angular, React, JavaScript & Node.js**
-- 📫 How to reach me **rsourabh002@gmail.com**
+<!-- ═══════════════ SOCIAL BADGES ═══════════════ -->
+<a href="https://linkedin.com/in/sourabh-raghuwanshi-5aa16a20a">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:rsourabh002@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://portfolio-sr-liard.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/R-Sourabh">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br />
+<br/><br/>
 
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/sourabh-raghuwanshi-5aa16a20a" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="50" width="50" />
-  </a>
-  <a href="mailto:rsourabh002@gmail.com">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Email" height="40" width="40" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=R-Sourabh&label=Profile+Views&color=58a6ff&style=flat-square" />
+<img src="https://img.shields.io/github/followers/R-Sourabh?label=Followers&style=flat-square&color=7c3aed" />
 
-<br />
+</div>
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" alt="Angular" width="40" height="40" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="React" width="40" height="40" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" alt="Vue" width="45" height="40" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" alt="Bootstrap" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic" width="60" height="40" />
-  
-  <!-- Backend & Databases -->
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="Node.js" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="50" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Python" width="40" height="40" />
-  
-  <!-- Tools & Cloud -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Git" width="70" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-</p>
+---
 
-<br />
+## 🧑‍💻 About Me
 
-### 📊 GitHub Stats
+```yaml
+name        : Sourabh Raghuwanshi
+location    : Indore, India 🇮🇳
+role        : Software Developer @ Hotwax Commerce
+experience  : 2+ years in production frontend & full-stack development
+focus       : Offline-first PWAs · Micro Frontends · AI-powered interfaces
+education   : B.Tech Computer Science — SGSITS, Indore (2019–2023)
+contact     : rsourabh002@gmail.com
+status      : Open to opportunities ✅
+```
 
-<!-- Using the working cards from your original profile -->
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=R-Sourabh&theme=solarized" alt="Stats Card" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=R-Sourabh&theme=solarized" alt="Top Languages by Repo" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=R-Sourabh&theme=solarized" alt="Top Languages by Commit" />
-</p>
+> *I obsess over performance — from API payload sizes to rendering pipelines. If it can be faster, it will be.*
 
-<!-- Your working streak stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=R-Sourabh&theme=solarized-light&hide_border=true&border_radius=6" alt="GitHub Streak" />
-</p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=30" width="100%"/>
-</p>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <i>Let's connect and build something amazing together!</i><br>
-  ⭐️ From <a href="https://github.com/R-Sourabh">Sourabh</a>
-</p>
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind,ionic&perline=9&theme=dark" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,postgres,graphql&perline=9&theme=dark" />
+
+**Tools & Cloud**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,aws,vercel,figma,vite,vitest,postman&perline=9&theme=dark" />
+
+**AI & Architecture**
+
+<img src="https://skillicons.dev/icons?i=redux,webpack&perline=9&theme=dark" />
+
+<br/>
+
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
+![Micro Frontends](https://img.shields.io/badge/Micro_Frontends-58a6ff?style=flat-square&logo=webpack&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP_Servers-1a1b27?style=flat-square&logo=buffer&logoColor=white)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-f97316?style=flat-square&logo=googlechrome&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily_API-0ea5e9?style=flat-square&logo=searchengin&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| &nbsp; | Project | What it does | Stack |
+|--------|---------|-------------|-------|
+| ⚡ | **[NutShell AI](https://github.com/R-Sourabh/NutShell-AI)** | AI productivity hub — streaming Generative UI, agentic research & task planning | Next.js · Vercel AI SDK · Groq · Supabase |
+| 📦 | **[Inventory Cycle Count](https://github.com/R-Sourabh/inventory-cycle-count)** | Offline-first PWA for high-volume retail, 4,000+ records with optimistic sync | Vue · Ionic · IndexedDB · Pinia · MCP |
+
+---
+
+## 💼 Experience
+
+**🏢 Software Developer — [Hotwax Commerce](https://www.hotwax.co/)** &nbsp;`Feb 2024 – Present`
+
+- Built OMS apps with **React, Redux, Ionic** — delivered 300+ production pull requests
+- Implemented **Micro Frontends** (Webpack Module Federation) for independent deploys and faster load
+- Built **offline-first PWAs** using IndexedDB + Web Workers, handling 4,000+ records concurrently
+- Cut API payload sizes by **40%** and eliminated 100% NiFi dependency via Moqui/Groovy migration
+
+**🏢 Front End Developer — ZignEx** &nbsp;`Sep 2023 – Jan 2024`
+
+- Built Angular/TypeScript logistics tools; extended Wijmo + OpenLayers across 7+ enterprise apps
+- Migrated shared library JS → TypeScript for a **30% performance boost**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=R-Sourabh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Sourabh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=R-Sourabh&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=f97316&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=7c3aed&dates=8b949e" />
+</div>
+
+<br/>
+
+<!-- ═══════════════ ACTIVITY GRAPH ═══════════════ -->
+<div align="center">
+
+[![Sourabh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=R-Sourabh&bg_color=0d1117&color=58a6ff&line=7c3aed&point=f97316&area=true&area_color=1f6feb&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ TROPHIES — mirror URL for reliability ═══════════════ -->
+<!-- <div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy-winning.vercel.app/?username=R-Sourabh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div> -->
+
+---
+
+## ⚡ At a Glance
+
+<div align="center">
+<img src="https://img.shields.io/badge/Pull%20Requests-300%2B-58a6ff?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/API%20Payload%20Reduction-40%25-7c3aed?style=for-the-badge&logo=speedtest&logoColor=white" />
+<img src="https://img.shields.io/badge/Offline%20Records%20Handled-4%2C000%2B-f97316?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Enterprise%20Apps-7%2B-3ECF8E?style=for-the-badge&logo=ionic&logoColor=white" />
+</div>
+
+---
+
+<!-- ═══════════════ FOOTER BANNER ═══════════════ -->
+<div align="center">
+
+*Let's build something remarkable.*&nbsp;&nbsp;
+<a href="mailto:rsourabh002@gmail.com"><b>Drop me a line →</b></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:58a6ff,100:0d1117&height=100&section=footer" />
+
+</div>
