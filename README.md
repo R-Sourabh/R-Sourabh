@@ -41,7 +41,7 @@
 name        : Sourabh Raghuwanshi
 location    : Indore, India 🇮🇳
 role        : Software Developer @ Hotwax Commerce
-experience  : 2+ years in production frontend & full-stack development
+experience  : 4+ years in production frontend & full-stack development
 focus       : Offline-first PWAs · Micro Frontends · AI-powered interfaces
 education   : B.Tech Computer Science — SGSITS, Indore (2019–2023)
 contact     : rsourabh002@gmail.com
